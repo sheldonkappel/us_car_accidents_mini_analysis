@@ -17,4 +17,4 @@ This project consists of some exploratory data analysis and visualization with t
 * How does total number of accidents vary across the states?
 
 ## Note
-Some data was recently removed from this dataset so I have good reason to be the dataset is a bit flawed. Which exact data that was removed was not given so I was unable to account for any specific error in my analysis with that respect.
+Some data was recently removed from this dataset so I have good reason to believe that the dataset is a bit flawed. The exact data that was removed was no longer accessible so I was unable to account for any specific error in my analysis with that respect.
